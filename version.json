@@ -1,5 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.30.1",
-  "downloadUrl": "https://github.com/CapReed/tamiz-releases/releases/latest/download/app-release.apk"
+  "versionCode": 34,
+  "versionName": "0.31.0",
+  "downloadUrl": "https://github.com/CapReed/tamiz-releases/releases/latest/download/app-release.apk",
+  "mandatory": false
 }
